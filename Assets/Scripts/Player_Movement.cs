@@ -6,53 +6,26 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour
 {
-    public float speed = 1.5f;
+    float defaultSpeed = 1.5f;
+    float runSpeed = 4;
+    [SerializeField]
+    float speed = 1.5f;
+    Vector3 moveVector;
+    void FixedUpdate()
+    {
+        transform.position += moveVector * Time.deltaTime;
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            speed = runSpeed;
+        }
+        else
+        {
+            speed = defaultSpeed;
+        }
 
+    }
     void Update()
     {
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                transform.position += Vector3.left * (4 * speed) * Time.deltaTime;
-            }
-            else
-            {
-                transform.position += Vector3.left * speed * Time.deltaTime;
-            }
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                transform.position += Vector3.right * (4 * speed) * Time.deltaTime;
-            }
-            else
-            {
-                transform.position += Vector3.right * speed * Time.deltaTime;
-            }
-        }
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                transform.position += Vector3.up * (4 * speed) * Time.deltaTime;
-            }
-            else
-            {
-                transform.position += Vector3.up * speed * Time.deltaTime;
-            }
-        }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                transform.position += Vector3.down * (4 * speed) * Time.deltaTime;
-            }
-            else
-            {
-                transform.position += Vector3.down * speed * Time.deltaTime;
-            }
-        }
+        moveVector = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0) * speed;
     }
 }
