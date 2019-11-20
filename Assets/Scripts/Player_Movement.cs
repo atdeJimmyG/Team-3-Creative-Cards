@@ -6,10 +6,9 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour
 {
-    float defaultSpeed = 1.5f;
-    float runSpeed = 4;
-    [SerializeField]
-    float speed = 1.5f;
+    float defaultSpeed = 3f;
+    float runSpeed = 9f;
+    float speed = 0f;
     Vector3 moveVector;
     void FixedUpdate()
     {
