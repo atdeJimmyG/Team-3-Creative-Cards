@@ -18,6 +18,7 @@ public class Player_Movement : MonoBehaviour
 
     void FixedUpdate()
     {
+        float move = Input.GetAxis("Vertical");
         transform.position += moveVector * Time.deltaTime;
         if (Input.GetKey(KeyCode.LeftShift))
         {
@@ -42,7 +43,7 @@ public class Player_Movement : MonoBehaviour
         {
             animator.SetBool("isIdle", false);
         }
-        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S)) 
+        if (move != 0) 
         {
             animator.SetBool("isWalking", true);
             animator.SetBool("isIdle", false);
