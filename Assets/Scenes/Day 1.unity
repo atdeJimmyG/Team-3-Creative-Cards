@@ -5381,7 +5381,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!4 &977723291
 Transform:
@@ -11628,5 +11628,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1933431434}
+    - target: {fileID: 1145607847284611313, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_MaskInteraction
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
