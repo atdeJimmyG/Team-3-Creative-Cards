@@ -6,16 +6,12 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour
 {
-<<<<<<< HEAD
+
     float defaultSpeed = 2.5f;
     float runSpeed = 4.5f;
     [SerializeField]
     float speed = 1.5f;
-=======
-    float defaultSpeed = 3f;
-    float runSpeed = 9f;
-    float speed = 0f;
->>>>>>> c7dfaae69ccb52d8b296abbf392f8d889aa589f5
+
     Vector3 moveVector;
     public Animator animator;
     private bool m_FacingRight = true;
