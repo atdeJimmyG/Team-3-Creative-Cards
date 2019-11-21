@@ -7,10 +7,9 @@ using UnityEngine;
 public class Player_Movement : MonoBehaviour
 {
 
-    float defaultSpeed = 2.5f;
-    float runSpeed = 4.5f;
-    [SerializeField]
-    float speed = 1.5f;
+    float defaultSpeed = 3f;
+    float runSpeed = 6f;
+    float speed = 0f;
 
     Vector3 moveVector;
     public Animator animator;
@@ -45,8 +44,16 @@ public class Player_Movement : MonoBehaviour
         }
         if (move != 0) 
         {
-            animator.SetBool("isWalking", true);
-            animator.SetBool("isIdle", false);
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                animator.SetBool("isRunning", true);
+                animator.SetBool("isIdle", false);
+            }
+            else
+            {
+                animator.SetBool("isWalking", true);
+                animator.SetBool("isIdle", false);
+            }
         }
 
         
