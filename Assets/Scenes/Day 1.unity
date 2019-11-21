@@ -124,6 +124,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -202,6 +207,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -286,6 +296,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -377,6 +392,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -460,6 +480,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -546,6 +571,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -630,6 +660,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -733,6 +768,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -829,6 +869,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -908,6 +953,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -986,6 +1036,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -1089,6 +1144,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1185,6 +1245,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1275,6 +1340,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1364,6 +1434,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -1461,6 +1536,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1551,6 +1631,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1635,6 +1720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1713,6 +1803,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -1797,6 +1892,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -1900,6 +2000,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1989,6 +2094,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -2147,6 +2257,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2230,6 +2345,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -2316,6 +2436,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2399,6 +2524,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -2489,6 +2619,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -2587,6 +2722,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2683,6 +2823,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2767,6 +2912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -2857,6 +3007,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -2955,6 +3110,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3045,6 +3205,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3128,6 +3293,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -3295,6 +3465,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3378,6 +3553,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -3468,6 +3648,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -3565,6 +3750,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3661,6 +3851,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3745,6 +3940,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3823,6 +4023,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -3926,6 +4131,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4004,6 +4214,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -4095,6 +4310,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4178,6 +4398,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -4263,6 +4488,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4347,6 +4577,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -4438,6 +4673,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4516,6 +4756,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -4602,6 +4847,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4685,6 +4935,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -4776,6 +5031,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4859,6 +5119,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -4950,6 +5215,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -5058,7 +5328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 977723291}
   - component: {fileID: 977723290}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Day One Inside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5111,7 +5381,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 1
+  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &977723291
 Transform:
@@ -5241,7 +5511,7 @@ Transform:
   - {fileID: 259434369}
   - {fileID: 970135041}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &986674354
 PrefabInstance:
@@ -5254,6 +5524,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -5339,6 +5614,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5422,6 +5702,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -5507,6 +5792,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -5598,6 +5888,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5681,6 +5976,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -5767,6 +6067,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5845,6 +6150,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -5936,6 +6246,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6014,6 +6329,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -6098,6 +6418,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -6190,6 +6515,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6273,6 +6603,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -6371,6 +6706,92 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 700545002}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1203413160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1203413162}
+  - component: {fileID: 1203413161}
+  m_Layer: 0
+  m_Name: A*
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1203413161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203413160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  data:
+    dataString: UEsDBBQAAAgIAAAAIeyMPF6VYwIAAAYFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVMly4jAQ/RVK5yEFJAY8txlDyByyVMhULr7IVhurkCWXlgBJ8e/Tkm3sML5Y7vW91y1/ES5NDblVeqM5e1QMyM8R8WfyY9Q7H+BId0pu+Sd0Me+c2dIH0RDzSi1XaJ/6NKMqsJrnv+RO+OAJGp3khdLVmu0gUcYaNBdUGECXVtZnSzR9jcgRX+PYp5zwNFv40yee4snojMccpAU9CI1uFrM4Xt7Nlm3KeHozu4vxWczb1CbTyVzQqgbmafQF4nmbF89DmESCbcTkJvIdlRDctPiIPdWBf0Jr45AdBjBOkW8A5emXwHel9diHyc9FYcC2Ymh6WnGNsjVVyW/VaFlRs2+QfVDhfJ9ZwNSUfPzPO54Gd6FV9dB1nU58B1vyfP9KTzk1diD10Lz6DtvJAxV7mgl4L0E+qY1WTjJ0Wu18qjMwW/WfF2JJCfm+tzdQr4yu7vXuJtvN1XM4B+7HRPAqC7rfNYatUEHtsA6gcTJ/EHBYFtOWQKtH8dfAG90Nt6p13HNtLLpaltLDy5TTPpSsg2aejbOJ0hKCuQVdg6TCnl6wjL0e4JVv0PbKc0/9/Wmbt77uWlylBHMfP5lcuV7U4TIsU6rDI5jy2VnBJfSgveMJdUqUlM1+DTXp0rZOFzQfpO0cZ99XixSLLKaLKFrC7bzIltn4NoqiLAKIWT7P2ZSRsHtcIk8qXhqgrTw4NdkXl7hn3W9ltNG0DrvOND1s+GelBpJzWahtrgHkc1PhAhw0NsFbydaMo0BbsJbLMG/ylRKh8j2w9FIoDUzXR6tp2ldJSc0/lPWWlCThP5KSMzn/A1BLAwQUAAAICAAAACHsJqa+Tm0AAAB4AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNBRUEovSizIKAaKGII4pZkpIHa0Upp5kmWiuampRaqxWVqSRZKusampaZJpaqplSrJZcophilIsUH1JZUGqX2JuKkRPQGJJRlpmXkpmXrqee1FmijvIaKXYWgBQSwECLQAUAAAICAAAACHsjDxelWMCAAAGBQAACwAkAAAAAAAAAAAAAAAAAAAAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAICAAAACHsJqa+Tm0AAAB4AAAACQAkAAAAAAAAAAAAAACwAgAAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsFBgAAAAACAAIAuAAAAGgDAAAAAA==
+    upgradeData: 
+    file_cachedStartup: {fileID: 0}
+    data_cachedStartup: 
+    cacheStartup: 0
+  showNavGraphs: 1
+  showUnwalkableNodes: 1
+  debugMode: 0
+  debugFloor: 0
+  debugRoof: 1
+  manualDebugFloorRoof: 0
+  showSearchTree: 0
+  unwalkableNodeDebugSize: 0.3
+  logPathResults: 1
+  maxNearestNodeDistance: 100
+  scanOnStartup: 1
+  fullGetNearestSearch: 0
+  prioritizeGraphs: 0
+  prioritizeGraphsLimit: 1
+  colorSettings:
+    _SolidColor: {r: 0.11764706, g: 0.4, b: 0.7882353, a: 0.9}
+    _UnwalkableNode: {r: 1, g: 0, b: 0, a: 0.5}
+    _BoundsHandles: {r: 0.29, g: 0.454, b: 0.741, a: 0.9}
+    _ConnectionLowLerp: {r: 0, g: 1, b: 0, a: 0.5}
+    _ConnectionHighLerp: {r: 1, g: 0, b: 0, a: 0.5}
+    _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
+    _AreaColors:
+    - {r: 0, g: 0, b: 0, a: 0}
+  tagNames: []
+  heuristic: 2
+  heuristicScale: 1
+  threadCount: 1
+  maxFrameTime: 1
+  batchGraphUpdates: 0
+  graphUpdateBatchingInterval: 0.2
+  euclideanEmbedding:
+    mode: 0
+    seed: 0
+    pivotPointRoot: {fileID: 0}
+    spreadOutCount: 1
+  showGraphs: 1
+--- !u!4 &1203413162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203413160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.73, y: -1.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1207559044 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
@@ -6388,6 +6809,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -6474,6 +6900,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6557,6 +6988,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -6648,6 +7084,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6731,6 +7172,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -6823,6 +7269,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6914,6 +7365,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6987,85 +7443,33 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 129952445}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1352941687
+--- !u!1 &1352941687 stripped
 GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 1145607847284611326, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+    type: 3}
+  m_PrefabInstance: {fileID: 6731334893258086679}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1352941689}
-  - component: {fileID: 1352941688}
-  m_Layer: 0
-  m_Name: Enemy 1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &1352941688
-SpriteRenderer:
+--- !u!50 &1352941690
+Rigidbody2D:
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352941687}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: ca6bcc08c5b95c14e856047aa3c1c675, type: 3}
-  m_Color: {r: 1, g: 0.023584902, b: 0.023584902, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 1
-  m_SpriteSortPoint: 0
---- !u!4 &1352941689
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1352941687}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.53, y: 22.49, z: 0.203125}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!4 &1371106182 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
@@ -7083,6 +7487,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -7168,6 +7577,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7251,6 +7665,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -7341,6 +7760,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -7438,6 +7862,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7517,6 +7946,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7595,6 +8029,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -7687,6 +8126,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7771,6 +8215,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7849,6 +8298,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -7958,6 +8412,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8043,6 +8502,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8121,6 +8585,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -8206,6 +8675,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8289,6 +8763,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -8391,6 +8870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -8496,6 +8980,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8579,6 +9068,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -8664,6 +9158,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -8767,6 +9266,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8845,6 +9349,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -8930,6 +9439,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9013,6 +9527,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -9122,6 +9641,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9213,6 +9737,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9296,6 +9825,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -9382,6 +9916,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Horitzontal (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9454,6 +9993,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7509ad6c543b7438e40a299e1711b4, type: 3}
+--- !u!1 &1933431433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1933431434}
+  m_Layer: 0
+  m_Name: TestTarget
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1933431434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1933431433}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29.75, y: 21.95, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1938273384
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9465,6 +10034,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -9555,6 +10129,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -9652,6 +10231,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9737,6 +10321,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9821,6 +10410,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -9917,6 +10511,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Horitzontal (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1314007724647746593, guid: 4b7509ad6c543b7438e40a299e1711b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7846119948377931852, guid: 4b7509ad6c543b7438e40a299e1711b4,
         type: 3}
@@ -10032,6 +10631,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10111,6 +10715,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10189,6 +10798,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -10281,6 +10895,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10359,6 +10978,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -10449,6 +11073,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -10541,6 +11170,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10619,6 +11253,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall Vertical (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
@@ -10737,7 +11376,7 @@ PrefabInstance:
     - target: {fileID: 7657490987515297880, guid: a6a05c7963ced3447bc1b10872c62d6b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7657490987515297880, guid: a6a05c7963ced3447bc1b10872c62d6b,
         type: 3}
@@ -10819,6 +11458,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Vertical
       objectReference: {fileID: 0}
+    - target: {fileID: 6482298553624224547, guid: 24ec986c70b37ae40873f621f44f6d54,
+        type: 3}
+      propertyPath: m_Layer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2822226055725526862, guid: 24ec986c70b37ae40873f621f44f6d54,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10892,3 +11536,97 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1806964830050728670}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6731334893258086679
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1145607847284611326, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 21.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.203125
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145607847284611312, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352941693, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
+      propertyPath: maxSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352941693, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
+      propertyPath: orientation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352941693, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
+      propertyPath: pickNextWaypointDist
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352941693, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
+      propertyPath: slowWhenNotFacingTarget
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1352941693, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
+      propertyPath: repathRate
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7199228214408300016, guid: b3e8953eb32cc8a4d81c93a1b55db83a,
+        type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 1933431434}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b3e8953eb32cc8a4d81c93a1b55db83a, type: 3}
