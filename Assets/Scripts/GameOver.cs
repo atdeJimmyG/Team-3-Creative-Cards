@@ -16,7 +16,7 @@ public class GameOver : MonoBehaviour
         yield return new WaitForSeconds(5.5f);
         FadeOut();
         yield return new WaitForSeconds(5.5f);
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     void FadeIn()

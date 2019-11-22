@@ -1,31 +1,19 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Video;
 using UnityEngine.SceneManagement;
 
 public class SplashFade : MonoBehaviour
 {
-    public Image splashImage;
-    public string loadLevel;
-
-    IEnumerator Start()
+    public VideoPlayer VideoPlayer; // Drag & Drop the GameObject holding the VideoPlayer component
+    public string SceneName;
+    void Start()
     {
-        splashImage.canvasRenderer.SetAlpha(0.0f);
-
-        FadeIn();
-        yield return new WaitForSeconds(5.5f);
-        FadeOut();
-        yield return new WaitForSeconds(5.5f);
-        SceneManager.LoadScene(1);
+        VideoPlayer.loopPointReached += LoadScene;
     }
-
-    void FadeIn()
+    void LoadScene(VideoPlayer vp)
     {
-        splashImage.CrossFadeAlpha(1.0f, 3.5f, false);
-    }
-
-    void FadeOut()
-    {
-        splashImage.CrossFadeAlpha(0.0f, 4.5f, false);
+        SceneManager.LoadScene(SceneName);
     }
 }
