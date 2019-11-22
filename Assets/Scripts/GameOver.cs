@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class SplashFade : MonoBehaviour
+public class GameOver : MonoBehaviour
 {
     public Image splashImage;
     public string loadLevel;
@@ -16,7 +16,7 @@ public class SplashFade : MonoBehaviour
         yield return new WaitForSeconds(5.5f);
         FadeOut();
         yield return new WaitForSeconds(5.5f);
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 
     void FadeIn()
