@@ -72,7 +72,6 @@ public class Player_Movement : MonoBehaviour
         {
             flip();
         }
-        
     }
 
     private void flip()
@@ -83,6 +82,5 @@ public class Player_Movement : MonoBehaviour
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         transform.localScale = theScale;
-        
     }
 }
